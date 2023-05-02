@@ -1,0 +1,27 @@
+.container{margin-left: 5%;margin-right: 5%;}
+.navigation{margin-left: 30%;}
+.navigation a{padding-left: 30px;}
+.ImageIntro{margin-left: 5%;}
+.ImageIntro img{width: 100%;}
+.text1{margin-left: 43%;margin-top: 2%;color: grey;}
+.text2{margin-left: 40%;text-decoration: underline;}
+.text3{margin-left: 50%;margin-top: -3%;}
+.display img{width: 70%;}
+.display {display: grid;grid-template-columns: 1fr 1fr 1fr 1fr;}
+.one{}
+.two{}
+.three{}
+.four{}
+.pinkbutton button{background-color: purple;color:bisque;
+    padding: 10px;margin-left: 43%;margin-top: 5%;}
+.pictures{display: grid;grid-template-columns: 1fr 1fr;margin-left: 6%;margin-top: 3%;}  
+.pic1 img{width: 80%;}  
+.pic2{display: grid;grid-template-columns: 1fr;}
+.pic2 img{width: 55%;}
+.words{text-align: center;margin-top: 5%;}
+.words p{color: grey;}
+.background img{width: 100%;}
+
+.footer{display: grid;grid-template-columns: 1fr 1fr 1fr 1fr;margin-left: 10%;margin-right: 10%;}
+.footer p{font-size: x-small;color: grey;}
+.end4 button{background-color:palevioletred;color: bisque;padding:10px;}
